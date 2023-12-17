@@ -6,7 +6,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 /**
  * projectName: b2c-cloud-store
  *
- * @author: 赵伟风
+ * @author: 罗蓉鑫
  * time: 2022/10/17 17:51 周一
  * description:
  */

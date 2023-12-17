@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * projectName: b2c-cloud-store
  *
- * @author: 赵伟风
+ * @author: 罗蓉鑫
  * time: 2022/10/19 15:04 周三
  * description: 消息队列配置
  */

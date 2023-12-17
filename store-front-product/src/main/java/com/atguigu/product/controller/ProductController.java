@@ -18,7 +18,7 @@ import java.util.Map;
 /**
  * projectName: b2c-cloud-store
  *
- * @author: 赵伟风
+ * @author: 罗蓉鑫
  * time: 2022/10/17 22:16 周一
  * description: 商品controller
  */

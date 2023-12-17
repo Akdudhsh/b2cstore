@@ -8,7 +8,7 @@ import org.springframework.cache.annotation.EnableCaching;
 /**
  * projectName: b2c-cloud-store
  *
- * @author: 赵伟风
+ * @author: 罗蓉鑫
  * time: 2022/10/17 16:56 周一
  * description: 启动类
  */

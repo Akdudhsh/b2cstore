@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * projectName: b2c-cloud-store
  *
- * @author: 赵伟风
+ * @author: 罗蓉鑫
  * time: 2022/10/17 22:24 周一
  * description: userfeign调用标准化接口
  */
