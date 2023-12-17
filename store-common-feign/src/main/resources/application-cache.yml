@@ -2,8 +2,8 @@ spring:
   cache:
     type: redis
   redis:
-    host: 124.221.70.206
-    port: 6379
+    host: 192.168.68.129
+    port: 6380
     jedis: # 设置Redis连接池
       pool:
         max-wait: 2000ms

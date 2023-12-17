@@ -5,7 +5,6 @@ import com.atguigu.param.ProductParamsSearch;
 import com.atguigu.param.ProductSaveParam;
 import com.atguigu.pojo.Product;
 import com.atguigu.utils.R;
-import com.sun.org.apache.regexp.internal.RE;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

@@ -93,6 +93,12 @@ public class CategoryServiceImpl implements CategoryService {
             log.info("CategoryServiceImpl.names业务结束，没有类别名称!结果:{}",ids);
             return ids;
         }
+
+
+        for (String s : categoryName) {
+            System.err.println(s);
+        }
+
         //查询数据库
         QueryWrapper<Category> queryWrapper = new QueryWrapper<>();
         queryWrapper.in("category_name",categoryName);
